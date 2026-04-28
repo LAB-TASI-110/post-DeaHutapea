@@ -1,0 +1,3 @@
+soall no 2
+buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. dengan menggunakan bahasa java, tanpa menggunkan alat bantu dan tidak ada batasan khusus, tujuan dibuatnya code ini agar data stok barang bisa disimpan rapi dalam gudang dengan memperhatikan pola penyimpanan karna kelompk barang dipisahkan dimana nanti inputnya berupa Jumlah total data (N), Deret stok (s1, s2, ..., sN), Kode kategori barang. posisikanlah dirimu sebagai mahasiswa semester 4 yang masih belajar untuk oop dengan alur kerja sesuai dengan apa yang diminta soal bentuk codenya dibuat cleancode dan dibuat terpisah untuk setiap code. ada driver dan model
+untuk penamaan driver yaitu Driver2

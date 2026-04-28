@@ -1,0 +1,11 @@
+soal no 3
+Buatlah sebuah sistem yang mendukung operasional kafetaria IT Del.
+menggunakan bahasa java tanpa menggunakan alat bantu dan tidak ada b atasan khusus, tujuan dibuat codeini agak sistemm dikafetaria ttidak lagi manual tetapi dibantu teknologi. 
+alur programnya adalah
+1. pelanggan (mahasiswa, dosen, staff) ingin memesan makanan
+2. pelanggan melihat menu yang tersedia dan memilih serta menentukan jumlahnhya
+3. pesanan sampai kepada penjual
+4. penjual akan mengkonfirmasi dan kemudia akan memberitahu saat pesanan sudah selesai agar pemebeli bisa tau kapan waktu untuk menggambil pesanan
+5. pembayaran bisa dilakukan saat memesan atau saat datang lgsg ke tempat, bisa cash maupun qris atau tf bank
+buatlah rincian input yang jelas diawal agar tau apa yang mau dimasukkan 
+posisikanlah dirimu sebagai mahasiswa semester 4 yang masih belajar untuk oop dengan alur kerja sesuai dengan apa yang diminta soal bentuk codenya dibuat cleancode dan dibuat terpisah untuk setiap code. ada driver dan model untuk penamaan driver yaitu Driver3
